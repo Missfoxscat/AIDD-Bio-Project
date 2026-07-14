@@ -1,4 +1,4 @@
-#1 AIDD-Bio-Project (GSE183947 Target Discovery)
+## AIDD-Bio-Project (GSE183947 Target Discovery)
 
 Welcome to my AI-driven Drug Discovery (AIDD) foundational repository. This project demonstrates end-to-end bioinformatics workflows, moving from raw gene expression data processing to therapeutic target identification.
 
@@ -8,7 +8,7 @@ Welcome to my AI-driven Drug Discovery (AIDD) foundational repository. This proj
 - [ ] **Phase 3: Visualization** - Generate volcano plots & heatmaps for key oncogenes (e.g., TP53, BRCA1).
 - [ ] **Phase 4: Web Deployment** - Build and host a dynamic Streamlit-based target discovery app.
 
-## 🛠️ Tech Stack & Modular Architecture
+##  Tech Stack & Modular Architecture
 - **Language:** Python
 - **Data Engineering:** Pandas, NumPy
 - **Statistics:** SciPy (T-test)
