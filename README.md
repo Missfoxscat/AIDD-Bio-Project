@@ -17,7 +17,6 @@ Welcome to my AI-driven Drug Discovery (AIDD) foundational repository. This proj
 
 ## Directory Structure
 ```text
-AIDD_Bio_Project/
-├── data/         # 原始基因表达矩阵 GSE183947
-├── src/          # 模块化自定义Python工具库 (my_bio_tools.py)
-└── notebooks/    # Jupyter交互式分步分析笔记
+- `data/`：Raw gene expression matrix (GSE183947)
+- `src/`：Custom modular python tools (my_bio_tools.py)
+- `notebooks/`：Jupyter interaction & step-by-step analysis
